@@ -1,0 +1,28 @@
+body {
+    background-color: #fd4556;
+    background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+    
+  }
+  h1 {
+    background-color: #bd3944;
+  }
+  div {
+    opacity: 0.8;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 90px;
+    background-color: #bd3944;
+  }
+  
+  p {
+    background-color: #53212b;
+    color: aliceblue;
+    background-image: url("paper.gif");
+  }
+  h2 {
+    background-color: #bd3944;
+    color: rgb(21, 7, 7);
+  }
